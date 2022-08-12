@@ -1,0 +1,2 @@
+# dono_insonlar
+donolar
